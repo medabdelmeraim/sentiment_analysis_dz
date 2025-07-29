@@ -1,0 +1,15 @@
+myenv/
+# Ignore large files
+*.vec
+*.pt
+*.pth
+*.pkl
+*.h5
+*.zip
+*.csv
+*.npz
+
+# Ignore Python cache and environment files
+__pycache__/
+*.pyc
+.env
